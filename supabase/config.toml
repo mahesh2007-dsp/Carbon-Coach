@@ -1,0 +1,3 @@
+[functions.carbon-coach]
+verify_jwt = false
+entrypoint = "./functions/carbon-coach/index.ts"
